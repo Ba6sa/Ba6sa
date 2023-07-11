@@ -1,5 +1,4 @@
-- 😶‍🌫️ Hi, I’m Bong
-- ⚙️ I’m currently learning and nourishing myself in the Software Industry to contribute to their needs in the community.
+- ⚙️ Currently learning and nourishing myself in the Software Industry to contribute to their needs in the community.
 - 🪶 Seeking the pinnacle of life!
 
 <!---
