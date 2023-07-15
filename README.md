@@ -1,4 +1,4 @@
-- ⚙️ Currently learning and nourishing myself in the Software Industry to contribute to their needs in the community.
+- ⚙️ Currently learning and nourishing myself in the Software Industry to contribute to in the community.
 
 
 <!---
